@@ -2,3 +2,7 @@ body{
     color:cadetblue;
     background: lightcyan;
 }
+
+header{
+    border: solid deepskyblue;
+}
