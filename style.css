@@ -1,8 +1,9 @@
 body{
     color:cadetblue;
     background: lightcyan;
+    margin: 0px;
 }
 
 header{
-border: solid 2px white;
+    border: solid 2px white;
 }
